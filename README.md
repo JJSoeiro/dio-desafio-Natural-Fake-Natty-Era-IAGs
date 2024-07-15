@@ -22,7 +22,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estrutur
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
-LINK PARA O E-BOOK AQUI: [/e-Book O impacto revolucionário das IAs Generativas.odt](https://github.com/JJSoeiro/dio-desafio-Natural-Fake-Natty-Era-IAGs/blob/main/e-Book%20O%20impacto%20revolucion%C3%A1rio%20das%20IAs%20Generativas.odt)
+LINK PARA O E-BOOK AQUI: [e-Book O impacto revolucionário das IAs Generativas.odp](https://github.com/JJSoeiro/dio-desafio-Natural-Fake-Natty-Era-IAGs/blob/main/e-Book%20O%20impacto%20revolucion%C3%A1rio%20das%20IAs%20Generativas.odp)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
